@@ -8,9 +8,12 @@ h2,h3{
     text-align: center;
 }
 
+a, img{
+    width: 50px;
+}
+
 .socialMediaIcons{
     text-align: center;
-    width: 100px;
 }
 
 img.centralImg{
