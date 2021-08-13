@@ -1,0 +1,28 @@
+html {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+h1{color: red;}
+
+h2,h3{
+    text-align: center;
+}
+
+.socialMediaIcons{
+    text-align: center;
+    width: 100px;
+}
+
+img.centralImg{
+    text-align: center;
+    width: 870px;
+    height: auto;
+}
+
+.margins{
+    margin: 0% 20% 0% 20%;
+}
+
+.centralize{
+    text-align: center;
+}
